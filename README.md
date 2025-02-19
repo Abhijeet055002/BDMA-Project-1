@@ -26,7 +26,7 @@ The **Pet Adoption and Rescue Management System** is a structured **SQL-based da
 
 ## **📁 Folder Structure**
 ```
-📂 Pet-Adoption-Rescue-Management/
+📂 FurEver-Home/
 ├── 📁 Dump/                     # Database backup and exports
 ├── 📄 .gitignore                 # Ignore unnecessary files
 ├── 📄 AA02RJ57 1 Database Schema Definition Script.sql
@@ -46,7 +46,7 @@ The **Pet Adoption and Rescue Management System** is a structured **SQL-based da
 ## **⚙️ Setup & Installation**
 1. **Clone the Repository:**
    ```sh
-   git clone https://github.com/Abhijeet-Real/Pet-Adoption-Rescue-Management.git
+   git clone https://github.com/Abhijeet-Real/FurEver-Home.git
    cd Pet-Adoption-Rescue-Management
    ```
 2. **Import the Database:**
